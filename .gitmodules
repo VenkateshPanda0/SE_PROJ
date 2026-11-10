@@ -1,0 +1,6 @@
+[submodule "lab 5/L5_34_online_exam"]
+	path = lab 5/L5_34_online_exam
+	url = https://github.com/VenkateshPanda0/L5_34_online_exam
+[submodule "lab 6/L6_L7_34_tennis_scoring"]
+	path = lab 6/L6_L7_34_tennis_scoring
+	url = https://github.com/VenkateshPanda0/L6_L7_34_tennis_scoring
